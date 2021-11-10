@@ -1,0 +1,20 @@
+.form {
+    position: absolute;
+    right: 5%;
+    top:5%;
+  }
+
+/* #play{
+  position: absolute;
+  right: 100%;
+  border: 3px solid green;
+} */
+#video {
+    position: relative;
+    top:5px
+
+}
+
+.body{
+  background-color: blue;
+}
